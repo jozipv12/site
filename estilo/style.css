@@ -17,10 +17,10 @@ h1{ font-size: 2em;
     color: blueviolet;
 }
 h2{
-    font-size: 1.5em;
+    font-size: 2em;
     color: brown;
 }
-img .lado{
+img.lado{
     float: right;
 }
 a{
@@ -30,5 +30,5 @@ a{
 }
 a:hover{
     text-decoration: underline;
-    color: aliceblue;
+    color: rgb(20, 115, 199);
 }
